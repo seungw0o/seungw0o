@@ -13,7 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌱 FRONT ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact)
-<br/>
-![SeungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungw0o&show_icons=true&theme=radical)
+### 🌱 FRONT
+<h3 align="center">✨ Use Langs ✨</h3>
+<div align="center">
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact)
+</div>
+
+<h3 align="center">✨ Github stats ✨</h3>
+<div align="center">
+  ![SeungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungw0o&show_icons=true&theme=radical)
+</div>
