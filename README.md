@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 -->
 ### 🌱 FRONT ...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact)
+![SeungWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=seungw0o&show_icons=true&theme=radical)
