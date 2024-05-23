@@ -1,5 +1,4 @@
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact">
 
 <h3 align="left">✨ ME ✨</h3>
 <div align="left">
@@ -19,6 +18,11 @@
 <div align="left">
  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white">&nbsp
 </div>
+<br>
+<br>
+<br>
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/>
+
+
+<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact">
   
