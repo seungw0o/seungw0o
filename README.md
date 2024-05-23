@@ -17,7 +17,7 @@
 
 <h3 align="left">✨ STUDY ✨</h3>
 <div align="left">
- <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=black">&nbsp
+ <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white">&nbsp
 </div>
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/>
