@@ -2,7 +2,6 @@
 
 <h3 align="left">✨ ME ✨</h3>
 <div align="left">
- <a href="https://www.instagram.com/txd.w0_/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=flat-square&logo=Instagram&logoColor=white">&nbsp
  <img src="https://img.shields.io/badge/wjdtmddn@dsm.hs.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white">
 </div>
   
