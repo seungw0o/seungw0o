@@ -3,7 +3,7 @@
 <h3 align="left">✨ ME ✨</h3>
 <div align="left">
  <img src="https://img.shields.io/badge/wjdtmddn@dsm.hs.kr-EA4335?style=flat&logo=Gmail&logoColor=white">
- <a href="https://linktr.ee/seungw0o" target="_blank"><img src="https://img.shields.io/badge/LinkTree-43E55E?style=flat&logo=Linktree&logoColor=white">
+<!--  <a href="https://linktr.ee/seungw0o" target="_blank"><img src="https://img.shields.io/badge/LinkTree-43E55E?style=flat&logo=Linktree&logoColor=white"> -->
 </div>
   
 
