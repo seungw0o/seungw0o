@@ -24,5 +24,5 @@
 
 
 
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact">
+<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/> 
   
