@@ -1,4 +1,4 @@
-<h1>Front Developer가 되기 위해, 공부중인 정씅우 입니다!</h1>
+<h1>Front Developer가 되기 위해, 공부중인 정승우 입니다!</h1>
 
 <h3 align="left">✨ ME ✨</h3>
 <div align="left">
