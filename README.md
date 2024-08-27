@@ -18,15 +18,15 @@
 <div align="left">
  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=black">&nbsp
 </div>
-<br>
-<br>
-<br>
-
+<br/>
+<br/>
 
 <span align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seungw0o&show_icons=true&theme=radical"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact&theme=dracula"/>
+ <br/>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/>
+ <br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact&theme=dracula"/>
 </span>
 
 
