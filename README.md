@@ -23,14 +23,13 @@
 <br>
 
 
-<span>
+<span align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seungw0o&show_icons=true&theme=radical"/>
-</span>
-<span>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact&theme=dracula"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/>
 </span>
 
-<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/>
+
 
 
   
