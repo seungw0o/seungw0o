@@ -24,7 +24,9 @@
 <span align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=seungw0o&show_icons=true&theme=radical"/>
  <br/>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/>
+ <a href="https://solved.ac/profile/tmddn">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn"/> 
+ </a>
  <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungw0o&layout=compact&theme=dracula"/>
 </span>
