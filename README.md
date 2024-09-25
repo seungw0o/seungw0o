@@ -1,6 +1,6 @@
 <h1>👋 FrontEnd 공부 중인 정승우 입니다!</h1>
 
-<h3 >💻 Tech Stack </h3>
+<h3 >💻 Tech Stack</h3>
 <div >
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=black">&nbsp
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black">&nbsp
