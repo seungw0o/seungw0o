@@ -6,6 +6,7 @@
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=black">&nbsp
  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black">&nbsp
  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black">&nbsp
+ <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat&logo=Python&logoColor=black">&nbsp
  <a href="https://solved.ac/profile/tmddn" target="_blank">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/tmddn"/> 
  </a>
