@@ -11,6 +11,7 @@
  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=javascript&logoColor=black">&nbsp
  <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=black">&nbsp
  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat&logo=typescript&logoColor=black">&nbsp
+ <img src="https://img.shields.io/badge/NEXT.JS-000000?style=flat&logo=nextdotjs&logoColor=white">&nbsp
 </div>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats">
