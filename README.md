@@ -3,7 +3,7 @@
 <h3 >💻 Tech Stack</h3>
 <div >
  <a href="https://solved.ac/profile/tmddn" target="_blank">
-  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=백준아이디)](https://solved.ac/tmddn"/> 
+  <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=tmddn)](https://solved.ac/tmddn"/> 
  </a>
 </div>
 <h3 >📑 STUDY </h3>
