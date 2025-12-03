@@ -1,4 +1,4 @@
-<h1>👋 FrontEnd 공부 중인 정승우 입니다!</h1>
+<h1>👋 FrontEnd 공부 중인 정승우 입니다!!</h1>
 
 <h3 >💻 Tech Stack</h3>
 <div >
