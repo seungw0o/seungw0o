@@ -1,4 +1,4 @@
-<h1>FrontEnd Engineer 정승우 입니다.</h1>
+<h1>Frontend Engineer 정승우 입니다.</h1>
 
 <h3 >TECH SKILLS</h3>
 <div >
